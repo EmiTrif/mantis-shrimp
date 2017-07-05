@@ -1,0 +1,96 @@
+*{
+	font-family:Railway;
+	color:#999;
+	Background-color:#444;
+}
+
+body{
+	margin:0;
+}
+
+img{
+	position:relative;
+	width:100%;
+	text-align:center;	
+}
+
+
+h1{
+	position:absolute; 
+	margin-top:-8%;
+	width:100%;
+	padding:5px;
+	color: white;
+	text-align:center;
+	background-color:rgba(0, 0, 0, 0.6);
+	font-size:40px;
+}
+
+.lead{
+	padding:2%;
+	margin:3%;
+	margin-top:4%;
+	background-color:rgba(237, 237, 53, 0.8);
+	border:1px transparent;
+	border-radius: 5px; 
+	font-size: 28px;
+	font-weight:bold;
+	text-align:left;
+	color:#373706;
+}
+
+h2{
+	color:white;
+	margin:3%;
+	font-size:34px;
+}
+
+p{
+	margin:3%;
+	font-size:22px;
+}
+
+table{
+	border-collapse: collapse;
+	margin:3%;
+	width:94%;
+	width:94%;
+	font-size:22px;
+	text-align:center;
+	border:1px solid #666;
+}	
+
+caption{	
+	text-transform:uppercase;
+	border-top:1px solid;
+	border-left:1px solid;
+	border-right:1px solid;
+	border-color:#666;
+	padding:5px;
+}
+
+td{
+	border:1px solid;
+	border-color:#666;
+	padding:5px;
+}
+
+th{
+	background-color:#666;
+	padding:5px;
+}
+
+hr{
+	width:90%;
+}
+
+a{
+	color:#28F0DF;
+	text-decoration:none;
+}
+
+footer{
+	text-align:center;
+}
+
+
